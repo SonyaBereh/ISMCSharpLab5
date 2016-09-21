@@ -10,7 +10,7 @@ namespace Task9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ввидети N: ");
+            Console.WriteLine("Введите N: ");
             int N = int.Parse(Console.ReadLine());
             double S = 1.5;
             double way = 0.5;
